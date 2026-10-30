@@ -1,0 +1,6 @@
+{
+  "Password-Stealing Malware": "Tools that capture and exfiltrate passwords from compromised systems.",
+  "Device Take-Over Techniques": "Methods to gain control of a user's device, such as ransomware.",
+  "SIM Swapping and Cloning": "Techniques to intercept SMS messages by swapping or cloning SIM cards.",
+  "Phishing Tools": "Software used to create convincing phishing emails and websites."
+}

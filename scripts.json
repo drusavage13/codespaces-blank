@@ -1,0 +1,6 @@
+{
+  "CashApp": "Hello, this is CashApp. We need to verify your account. Please provide the OTP sent to your phone.",
+  "eBay": "Hello, this is eBay. We need to confirm your recent purchase. Please provide the OTP sent to your phone.",
+  "Google": "Hello, this is Google. We need to verify your account. Please provide the OTP sent to your phone.",
+  "Amazon": "Hello, this is Amazon. We need to confirm your recent order. Please provide the OTP sent to your phone."
+}
